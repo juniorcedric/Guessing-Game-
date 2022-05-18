@@ -1,0 +1,8 @@
+C:\Users\junio\OneDrive\Desktop\BACHELOR HAW\SO_SE_2022\INFO2-sose22\INFO2-tutoriels\TutoBrad-guessingNumberGame-13052022\TutoBrad-guessingNumberGame-13052022\obj\Debug\TutoBrad-guessingNumberGame-13052022.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Desktop\BACHELOR HAW\SO_SE_2022\INFO2-sose22\INFO2-tutoriels\TutoBrad-guessingNumberGame-13052022\TutoBrad-guessingNumberGame-13052022\obj\Debug\TutoBrad-guessingNumberGame-13052022.csproj.SuggestedBindingRedirects.cache
+C:\Users\junio\OneDrive\Desktop\BACHELOR HAW\SO_SE_2022\INFO2-sose22\INFO2-tutoriels\TutoBrad-guessingNumberGame-13052022\TutoBrad-guessingNumberGame-13052022\obj\Debug\TutoBrad-guessingNumberGame-13052022.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Desktop\BACHELOR HAW\SO_SE_2022\INFO2-sose22\INFO2-tutoriels\TutoBrad-guessingNumberGame-13052022\TutoBrad-guessingNumberGame-13052022\bin\Debug\TutoBrad-guessingNumberGame-13052022.exe.config
+C:\Users\junio\OneDrive\Desktop\BACHELOR HAW\SO_SE_2022\INFO2-sose22\INFO2-tutoriels\TutoBrad-guessingNumberGame-13052022\TutoBrad-guessingNumberGame-13052022\bin\Debug\TutoBrad-guessingNumberGame-13052022.exe
+C:\Users\junio\OneDrive\Desktop\BACHELOR HAW\SO_SE_2022\INFO2-sose22\INFO2-tutoriels\TutoBrad-guessingNumberGame-13052022\TutoBrad-guessingNumberGame-13052022\bin\Debug\TutoBrad-guessingNumberGame-13052022.pdb
+C:\Users\junio\OneDrive\Desktop\BACHELOR HAW\SO_SE_2022\INFO2-sose22\INFO2-tutoriels\TutoBrad-guessingNumberGame-13052022\TutoBrad-guessingNumberGame-13052022\obj\Debug\TutoBrad-guessingNumberGame-13052022.exe
+C:\Users\junio\OneDrive\Desktop\BACHELOR HAW\SO_SE_2022\INFO2-sose22\INFO2-tutoriels\TutoBrad-guessingNumberGame-13052022\TutoBrad-guessingNumberGame-13052022\obj\Debug\TutoBrad-guessingNumberGame-13052022.pdb
